@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 3px;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    font-size: 25px;
+}
+
+body {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 15rem;
+    height: 15rem;
+    object-fit: cover;
+    border-radius: 50%;
+    background: rebeccapurple;
+    padding: 6px;
+    float: left;
+}
+
+div {
+    width: 20px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    
+}
+
+p {
+    height: 20px;
+}
